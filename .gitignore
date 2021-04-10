@@ -1,0 +1,9 @@
+# Pycharm
+/.idea/
+.env
+
+# Python
+/venv/
+
+# Temp
+/tmp
